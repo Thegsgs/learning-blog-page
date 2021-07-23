@@ -72,17 +72,14 @@ font-weight: bold;
   z-index: 1;
 }
 
-.header__square-pic {
-  position: absolute;
-  right: 0;
-  top:64px;
-}
-
 /* here we have two examples of selectors in order to remind you how to set styles for elements */
 .header__square-pic {
   height: 568px;
   width: 568px;
   background-color: #2f89ed;
+  position: absolute;
+  right: 0;
+  top:64px;
 }
 
 /* DESCRIPTION */
@@ -251,27 +248,9 @@ margin-bottom: 100px;
   padding-inline-end: 90px;
 }
 
-.section-title {
-  width: 60%;
-  line-height: 69px;
-  font-size: 60px;
-  font-weight: bold;
-  text-align: center;
-  margin: 90px auto 0 auto;
-}
-
 .section-title_theme_dark {
   color: white;
   z-index: 1;
-}
-
-.section-subtitle {
-  width: 60%;
-  line-height: 34px;
-  font-size: 24px;
-  font-weight: normal;
-  text-align: center;
-  margin: 20px auto 0 auto;
 }
 
 .section-subtitle_theme_dark {
@@ -290,7 +269,6 @@ margin-bottom: 100px;
 
 /* including elements with key-value modifiers */
 .table__cell_theme_dark {
-  width: 200px;
   color: white;
   margin-top: 80px;
   width: 200px;
