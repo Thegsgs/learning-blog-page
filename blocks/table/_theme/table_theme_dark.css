@@ -1,0 +1,7 @@
+.table_theme_dark {
+  list-style: none;
+  z-index: 1;
+  justify-content: space-between;
+  width: 1100px;
+  margin: 0 auto 0 auto;
+}
