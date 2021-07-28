@@ -1,8 +1,6 @@
 @import url(./__triangle/kaufman__triangle.css);
 
 .kaufman {
-  min-height: 600px;
-  max-height: 756px;
   background-color: #1f1f1f;
   position: relative;
   display:flex;
