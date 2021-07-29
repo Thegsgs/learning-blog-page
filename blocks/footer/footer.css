@@ -4,10 +4,7 @@
 @import url(./__list/footer__list.css);
 @import url(./__social-icons/footer__social-icons);
 @import url(./__columns/footer__columns.css);
-@import url(./__column/footer__column.css);
-@import url(./__column/_content/footer__column_content_about.css);
 @import url(./__column/_content/footer__column_content_copyright.css);
-@import url(./__column/_content/footer__column_content_social.css);
 
 .footer {
   box-sizing: border-box;
