@@ -3,9 +3,9 @@
   text-decoration: none;
   color: #2f89ed;
   z-index: 2;
-  transition: opacity .2s linear;
+  transition: filter .15s linear;
 }
 
 .header__link:hover {
-  opacity: 0.6;
+  filter: brightness(1.5);
 }
