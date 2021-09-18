@@ -13,3 +13,6 @@ I used the BEM methodology to structure the file system and HTML classes.
 
 ## Future plans
 * Add a comment submitting form after the project is approved.
+
+## Github pages link:
+https://thegsgs.github.io/web_project_1/
